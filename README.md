@@ -229,25 +229,5 @@ The software requires a machine-specific serial number for activation.
 
 ---
 
-## Building & Setup
 
-### Portable Distribution
-```bash
-build_portable.bat
-```
-
-### EXE Build (requires PyInstaller)
-```bash
-build_exe.bat
-```
-
-### Windows Installer (requires Inno Setup)
-1. Install Inno Setup from https://jrsoftware.org/isdl.php
-2. Open `installer/setup.iss` in Inno Setup Compiler
-3. Click Build to create the installer
-4. The installer includes:
-   - Desktop shortcut creation option
-   - Start menu shortcut
-   - Automatic dependency installation
-   - Uninstall support
 

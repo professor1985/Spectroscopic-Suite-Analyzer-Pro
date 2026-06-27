@@ -1,4 +1,4 @@
-# Spectrum Pro Analyzer V.1
+# Spectroscopic Suite Analyzer Pro V.1
 
 **Advanced Spectroscopy Analysis Software**
 

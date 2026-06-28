@@ -1,4 +1,4 @@
-# Spectroscopic Suite Analyzer Pro V.1
+# Spectroscopic Suite Analyzer Pro 2026 V.1
 
 **Advanced Spectroscopy Analysis Software**
 
